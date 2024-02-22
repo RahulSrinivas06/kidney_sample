@@ -1,0 +1,1626 @@
+[
+  {
+    "image": "STONE-1469-_JPG_jpg.rf.0d377dd4a38cfc77ff20648eb8eb8404.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 452.86,
+          "y": 314.29,
+          "width": 94.29,
+          "height": 128.57
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 735.71,
+          "y": 325,
+          "width": 94.29,
+          "height": 98.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1336-_jpg.rf.099e41312374900b9f9c4bc8e1b5f769.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 788.13,
+          "y": 345,
+          "width": 41.25,
+          "height": 45
+        }
+      }
+    ]
+  },
+  {
+    "image": "Normal-187-_jpg.rf.137d6e1a75825dadb8d0c9bd395f0dc0.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 456.67,
+          "y": 222.08,
+          "width": 35,
+          "height": 54.17
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-147-_jpg.rf.047d8afff37eb73dc20ea4b54d976511.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 417.31,
+          "y": 216.54,
+          "width": 22.31,
+          "height": 25.38
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1188-_jpg.rf.13edd9c77bc9f08c3e4ac91f1283b1e7.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 158.21,
+          "y": 310,
+          "width": 30.71,
+          "height": 31.43
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 371.43,
+          "y": 328.93,
+          "width": 60,
+          "height": 55
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1627-_JPG_jpg.rf.14dca466744685fe79e92faa91ee9d3f.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 181.25,
+          "y": 310,
+          "width": 24.17,
+          "height": 36.67
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1429-_JPG_jpg.rf.176e8707dc269b6c3ba7f8d62d86d6ce.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 176.07,
+          "y": 356.79,
+          "width": 37.86,
+          "height": 30.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1248-_jpg.rf.1516feea7affd0fbc06987c793b08afb.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 556.5,
+          "y": 275,
+          "width": 37,
+          "height": 42
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 365.5,
+          "y": 266,
+          "width": 43,
+          "height": 40
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1095-_jpg.rf.25df060c3e32371db5150debd779a249.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 706.43,
+          "y": 334.29,
+          "width": 95.71,
+          "height": 102.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1408-_JPG_jpg.rf.1ee4fd4ecf9f87bf21b514e1abe9a540.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 685.63,
+          "y": 321.25,
+          "width": 38.75,
+          "height": 45
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1159-_jpg.rf.334c1addfdb3b4a176bd45c0569f20b1.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 162.5,
+          "y": 335.36,
+          "width": 66.43,
+          "height": 56.43
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 330.71,
+          "y": 327.86,
+          "width": 48.57,
+          "height": 38.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1423-_JPG_jpg.rf.26b55fade2c1fc75305a26c4ac296382.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 168.93,
+          "y": 344.29,
+          "width": 26.43,
+          "height": 21.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1101-_jpg.rf.2d8313187dc0804c68628cd0a6149550.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 698.57,
+          "y": 337.14,
+          "width": 94.29,
+          "height": 102.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1290-_jpg.rf.3519bd6db280635b1b0d02083a749838.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 358,
+          "y": 219.5,
+          "width": 48,
+          "height": 71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1180-_jpg.rf.35b00d5a970493b8f4e7ca8f34f82506.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 160,
+          "y": 330.36,
+          "width": 41.43,
+          "height": 52.14
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 367.86,
+          "y": 328.57,
+          "width": 62.86,
+          "height": 52.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1546-_JPG_jpg.rf.2809070f04613223f5e6585ed2e34a11.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 204.64,
+          "y": 245,
+          "width": 22.14,
+          "height": 21.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1574-_JPG_jpg.rf.373ce2463ec173366e686c311fb62bfc.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 298.46,
+          "y": 165.38,
+          "width": 16.92,
+          "height": 21.54
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 410,
+          "y": 203.85,
+          "width": 44.62,
+          "height": 26.15
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1473-_JPG_jpg.rf.36fdfc3a9fe11dca37564ff61707b8a5.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 444.29,
+          "y": 321.43,
+          "width": 80,
+          "height": 85.71
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 510.71,
+          "y": 236.43,
+          "width": 35.71,
+          "height": 32.86
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 723.57,
+          "y": 365.71,
+          "width": 38.57,
+          "height": 42.86
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 762.14,
+          "y": 305,
+          "width": 44.29,
+          "height": 38.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1602-_JPG_jpg.rf.39dac4d8386af5005ba013a4e806e039.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 146.07,
+          "y": 272.5,
+          "width": 23.57,
+          "height": 26.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1016-_jpg.rf.401036146f4c4086abcce6b3a6db3f5d.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 500.45,
+          "y": 252.27,
+          "width": 68.18,
+          "height": 79.09
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1611-_JPG_jpg.rf.3d4512119c88d6c71d6c8aa930c9d09f.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 346.5,
+          "y": 302,
+          "width": 29,
+          "height": 48
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1558-_JPG_jpg.rf.391032780d999bc04e49723fc5f03e54.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 208.57,
+          "y": 238.57,
+          "width": 28.57,
+          "height": 22.86
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 320.36,
+          "y": 261.07,
+          "width": 20.71,
+          "height": 26.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1003-_jpg.rf.425b1be5e1093a982bfd9c0a4057c19b.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 184.29,
+          "y": 281.07,
+          "width": 67.14,
+          "height": 89.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1575-_JPG_jpg.rf.473a57bfce3965d483265965cd61efde.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 297.69,
+          "y": 165,
+          "width": 12.31,
+          "height": 20.77
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 409.23,
+          "y": 206.15,
+          "width": 26.15,
+          "height": 36.92
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-105-_jpg.rf.4d7009174b2d03f223d04e3ad737182e.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 470,
+          "y": 270,
+          "width": 108.57,
+          "height": 177.14
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 738.57,
+          "y": 308.57,
+          "width": 94.29,
+          "height": 182.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1146-_jpg.rf.5cf6375947fc06e38aa1b032ff330053.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 171.79,
+          "y": 345,
+          "width": 60.71,
+          "height": 47.14
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 345.71,
+          "y": 323.57,
+          "width": 71.43,
+          "height": 44.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1089-_jpg.rf.53f5752dd24f5530a1937a571c643962.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 341.79,
+          "y": 291.43,
+          "width": 40.71,
+          "height": 42.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1418-_JPG_jpg.rf.668dfdf988b4695d658355a35c3f123d.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 312.86,
+          "y": 366.07,
+          "width": 44.29,
+          "height": 35
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 165.36,
+          "y": 351.43,
+          "width": 17.86,
+          "height": 15.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-113-_jpg.rf.619e98666ebd6c96d283310a3374cf2d.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 463.57,
+          "y": 242.86,
+          "width": 101.43,
+          "height": 157.14
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 523.57,
+          "y": 322.14,
+          "width": 24.29,
+          "height": 1.43
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 710,
+          "y": 236.43,
+          "width": 62.86,
+          "height": 61.43
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 759.29,
+          "y": 343.57,
+          "width": 52.86,
+          "height": 58.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1448-_JPG_jpg.rf.5f29ecc4d19396d5ea190a8d24b37ff3.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 488.57,
+          "y": 327.86,
+          "width": 91.43,
+          "height": 124.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1454-_JPG_jpg.rf.70d918bfd243a5695374551d13ca0823.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 457.14,
+          "y": 287.86,
+          "width": 60,
+          "height": 95.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1127-_jpg.rf.72386fbc46a1bd8b69de6de1c1a215ef.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 179.64,
+          "y": 342.5,
+          "width": 45,
+          "height": 39.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1413-_JPG_jpg.rf.764535394fd989e534765ad8463880d6.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 318.57,
+          "y": 374.64,
+          "width": 38.57,
+          "height": 26.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-103-_jpg.rf.743645834532b464598b4efe968c38f1.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 460,
+          "y": 295,
+          "width": 131.43,
+          "height": 215.71
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 742.86,
+          "y": 316.43,
+          "width": 91.43,
+          "height": 175.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1393-_JPG_jpg.rf.7cc137763a66711b8cdbf00a0983eb0d.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 336.43,
+          "y": 296.07,
+          "width": 25.71,
+          "height": 29.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-134-_jpg.rf.82175ba7818c160501c64303e8e7c261.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 517.27,
+          "y": 198.64,
+          "width": 32.73,
+          "height": 37.27
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1017-_jpg.rf.78e386cba6ade54d97cc8350ded2365a.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 512.73,
+          "y": 252.73,
+          "width": 60,
+          "height": 54.55
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1424-_JPG_jpg.rf.7f47b790da54145f6a5afcd1117493ac.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 165.71,
+          "y": 343.57,
+          "width": 18.57,
+          "height": 21.43
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 312.86,
+          "y": 373.21,
+          "width": 44.29,
+          "height": 29.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1564-_JPG_jpg.rf.848e96b1c1c12d9752659c03dc4f7831.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 296.92,
+          "y": 177.31,
+          "width": 18.46,
+          "height": 30
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 407.69,
+          "y": 213.85,
+          "width": 32.31,
+          "height": 41.54
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1458-_JPG_jpg.rf.84fee13142007293480be4cf7c04cd63.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 472.86,
+          "y": 310,
+          "width": 97.14,
+          "height": 157.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1615-_JPG_jpg.rf.8236cec3657121c6a137fc59abe6b3b0.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 336.5,
+          "y": 304,
+          "width": 17,
+          "height": 28
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1072-_jpg.rf.89d9ddd70391c69303254fb9b6b3d6ed.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 323.21,
+          "y": 280.71,
+          "width": 80.71,
+          "height": 50
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1560-_JPG_jpg.rf.8b8e8d7db6cc9646526d25012a1f5c82.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 296.15,
+          "y": 185.38,
+          "width": 21.54,
+          "height": 35.38
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 404.62,
+          "y": 211.15,
+          "width": 24.62,
+          "height": 23.85
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1612-_JPG_jpg.rf.8b649b8fb4591c2cdc7f99ded6c36cc2.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 345.5,
+          "y": 302.5,
+          "width": 37,
+          "height": 47
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1271-_jpg.rf.85fca19de0f3271eb02a85c0b277668f.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 538,
+          "y": 230.5,
+          "width": 72,
+          "height": 101
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 355,
+          "y": 229.5,
+          "width": 86,
+          "height": 105
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1283-_jpg.rf.95f8072eddbde00bd9b9de128348c94c.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 371.5,
+          "y": 228.5,
+          "width": 85,
+          "height": 81
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 535,
+          "y": 221,
+          "width": 42,
+          "height": 86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1018-_jpg.rf.9b596c23826e1ebe012f9f1b86e19719.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 504.55,
+          "y": 252.27,
+          "width": 32.73,
+          "height": 33.64
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1605-_JPG_jpg.rf.962e20d2076e5862fb78da4af97dc64d.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 155.71,
+          "y": 264.29,
+          "width": 41.43,
+          "height": 24.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1102-_jpg.rf.952c7bcf2f9a3097b7d9ae64a1a45a65.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 707.14,
+          "y": 329.29,
+          "width": 100,
+          "height": 98.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1046-_jpg.rf.9c664da0760f9774b11dbcd2cc86b012.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 310.36,
+          "y": 286.43,
+          "width": 50.71,
+          "height": 50
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1193-_jpg.rf.a1d9fb2985d17ecbba571488122080f5.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 365,
+          "y": 323.57,
+          "width": 37.14,
+          "height": 34.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1004-_jpg.rf.a328c0ee2e955792d09730ced37fa378.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 771.43,
+          "y": 378.57,
+          "width": 137.14,
+          "height": 125.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1187-_jpg.rf.9ddd5988e935cda22261b269f46e6122.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 163.21,
+          "y": 314.64,
+          "width": 37.86,
+          "height": 23.57
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 367.86,
+          "y": 312.86,
+          "width": 27.14,
+          "height": 25.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1396-_JPG_jpg.rf.a9b5451353f6c6a370478d579c7d7fd2.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 341.07,
+          "y": 298.57,
+          "width": 16.43,
+          "height": 22.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1167-_jpg.rf.aa7bb7eebf14fe38e4a044e8484650cb.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 156.79,
+          "y": 337.5,
+          "width": 50.71,
+          "height": 47.86
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 363.57,
+          "y": 316.07,
+          "width": 75.71,
+          "height": 49.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1212-_jpg.rf.aca0696daa48c4f808acc9d686be4198.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 361.43,
+          "y": 310,
+          "width": 47.14,
+          "height": 57.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1297-_jpg.rf.ae06cadaa207811b0838e00c761f2b26.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 354,
+          "y": 209,
+          "width": 46,
+          "height": 64
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1179-_jpg.rf.a3267d9b0b1884e9f9e5ad5403cfcda4.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 154.29,
+          "y": 332.14,
+          "width": 31.43,
+          "height": 52.86
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 366.07,
+          "y": 328.21,
+          "width": 52.14,
+          "height": 40.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1443-_JPG_jpg.rf.aebdf050a5d8396147eae1e9d3326365.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 491.43,
+          "y": 342.86,
+          "width": 51.43,
+          "height": 82.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-122-_jpg.rf.ae87edc56bd3aa62fe73d7a2e5da9da6.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 482.86,
+          "y": 255,
+          "width": 102.86,
+          "height": 98.57
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 727.14,
+          "y": 272.86,
+          "width": 111.43,
+          "height": 160
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1-_jpg.rf.b0bffee0b314f56425058ef41b56a4aa.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 210.71,
+          "y": 269.29,
+          "width": 45.71,
+          "height": 51.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1289-_jpg.rf.af38ab951cdb2572cd1b389e43fecbf9.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 359,
+          "y": 225.5,
+          "width": 68,
+          "height": 83
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 535.5,
+          "y": 214.5,
+          "width": 47,
+          "height": 43
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1451-_JPG_jpg.rf.bc0a197016e1918cdb9a5d41cd5c7110.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 479.29,
+          "y": 319.29,
+          "width": 72.86,
+          "height": 138.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1300-_jpg.rf.ba0cbdde59ae298f9c02354f93a304cc.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 364,
+          "y": 205,
+          "width": 46,
+          "height": 54
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1148-_jpg.rf.a9aa12b2e53570325d5a8f6f99295afd.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 180.36,
+          "y": 337.14,
+          "width": 70.71,
+          "height": 50
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 334.29,
+          "y": 320.36,
+          "width": 40,
+          "height": 45
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1254-_jpg.rf.ca0018697a9824e92a3fb88c36e093c1.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 560,
+          "y": 246.5,
+          "width": 38,
+          "height": 51
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1278-_jpg.rf.bc9a7fa81d3c6d0c82168df9d43e73e8.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 379.5,
+          "y": 205,
+          "width": 37,
+          "height": 50
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 346,
+          "y": 209.5,
+          "width": 22,
+          "height": 31
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 343,
+          "y": 278,
+          "width": 24,
+          "height": 28
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 322.5,
+          "y": 232,
+          "width": 25,
+          "height": 24
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 540,
+          "y": 225.5,
+          "width": 58,
+          "height": 73
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1639-_JPG_jpg.rf.c85858a6ed689cd1cdece2d3275fde5d.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 318.5,
+          "y": 281.5,
+          "width": 33,
+          "height": 29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1415-_JPG_jpg.rf.ce51293e35d01ae4dc46a753efaf8929.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 323.21,
+          "y": 373.93,
+          "width": 27.86,
+          "height": 29.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1330-_jpg.rf.e6ea02ebb72d161f30f35b05c817132c.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 360.36,
+          "y": 229.29,
+          "width": 29.29,
+          "height": 35.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1183-_jpg.rf.cf862d2b6fffe6b809098fbe043f6342.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 158.93,
+          "y": 327.86,
+          "width": 37.86,
+          "height": 51.43
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 358.57,
+          "y": 338.21,
+          "width": 35.71,
+          "height": 26.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1036-_jpg.rf.d6b3cc895ea90db2842e7b0cb3645cca.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 304.29,
+          "y": 287.5,
+          "width": 57.14,
+          "height": 62.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1172-_jpg.rf.e6f83eda5a630efec18543a797a91b4c.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 360.71,
+          "y": 316.07,
+          "width": 64.29,
+          "height": 49.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1126-_jpg.rf.d58fe9d40a621e5816708c8974e1cc5a.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 171.07,
+          "y": 350.71,
+          "width": 33.57,
+          "height": 32.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1376-_jpg.rf.ecb7da3f0e37e3dfe8ff6577ae8158bb.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 206.07,
+          "y": 262.14,
+          "width": 27.86,
+          "height": 25.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1128-_jpg.rf.eba9f9d743f34e64f4094934d882a852.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 175,
+          "y": 341.43,
+          "width": 52.86,
+          "height": 54.29
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 333.93,
+          "y": 329.64,
+          "width": 36.43,
+          "height": 29.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1452-_JPG_jpg.rf.ecf08713e8da076f2aa02e5507060a39.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 470.71,
+          "y": 318.57,
+          "width": 55.71,
+          "height": 137.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-143-_jpg.rf.f2d491e8aa20f2ce0b6d568e4195f7b2.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 323.93,
+          "y": 298.57,
+          "width": 27.86,
+          "height": 20
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1310-_jpg.rf.f45e43038c854bf83f970ec4a9f48519.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 393.57,
+          "y": 235,
+          "width": 11.43,
+          "height": 12.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1365-_jpg.rf.f0b8b00074ae39c5c4542af4bcf55cc8.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 365.5,
+          "y": 263.5,
+          "width": 33,
+          "height": 45
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1476-_JPG_jpg.rf.f6209947b74e0bfc5ab078aafa18af58.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 505,
+          "y": 240,
+          "width": 61.43,
+          "height": 51.43
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 447.14,
+          "y": 329.29,
+          "width": 60,
+          "height": 72.86
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 767.86,
+          "y": 346.43,
+          "width": 118.57,
+          "height": 104.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1253-_jpg.rf.f4fa4b2bfb2071aaf1bf6d30ebaeabf4.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 563.5,
+          "y": 256.5,
+          "width": 43,
+          "height": 67
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 356.5,
+          "y": 264.5,
+          "width": 43,
+          "height": 57
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1203-_jpg.rf.ea3692e07aef931b86e6f5d5e256603e.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 161.07,
+          "y": 325.71,
+          "width": 42.14,
+          "height": 51.43
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 365.36,
+          "y": 307.14,
+          "width": 52.14,
+          "height": 45.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1020-_jpg.rf.fb0cd60e4da22271d5bc134542a56a1c.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 301.43,
+          "y": 288.21,
+          "width": 31.43,
+          "height": 37.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1275-_jpg.rf.f89bb21a55f202773f6ea44b540265f9.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 547.5,
+          "y": 237.5,
+          "width": 73,
+          "height": 97
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 342.5,
+          "y": 258.5,
+          "width": 59,
+          "height": 75
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 378,
+          "y": 202,
+          "width": 30,
+          "height": 34
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1325-_jpg.rf.f97f09e1429c359b9f59a227276dda10.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 347.14,
+          "y": 223.21,
+          "width": 32.86,
+          "height": 35
+        }
+      }
+    ]
+  },
+  {
+    "image": "Normal-180-_jpg.rf.fe0525e33aa2224d9b63ea084eb6779d.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 457.5,
+          "y": 229.58,
+          "width": 43.33,
+          "height": 42.5
+        }
+      },
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 281.25,
+          "y": 228.75,
+          "width": 20.83,
+          "height": 17.5
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-1107-_jpg.rf.ff2643b132853b7f3a841b40d9512283.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 706.43,
+          "y": 332.86,
+          "width": 124.29,
+          "height": 120
+        }
+      }
+    ]
+  },
+  {
+    "image": "STONE-130-_jpg.rf.fc739def9e6df4dedb557a039695f222.jpg",
+    "annotations": [
+      {
+        "label": "kidney-stone",
+        "coordinates": {
+          "x": 348.57,
+          "y": 313.57,
+          "width": 18.57,
+          "height": 20
+        }
+      }
+    ]
+  }
+]
